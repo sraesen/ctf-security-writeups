@@ -1,40 +1,36 @@
+# 🛡️ [~/Archive/Security-Writeups]
+**Technical vault documenting the 500-room mastery roadmap and specialized research.**
+
+---
+
+### 📡 SYSTEM_STATUS
+`GLOBAL_RANK`  ⮕ **TOP 2%** 🏆 (Verified Elite)
+`LEGACY_LOAD`  ⮕ **200+ Rooms Completed**
+`ARCHIVE_GOAL` ⮕ **000 / 500** [░░░░░░░░░░░░░░░░░░░░] `RE-INDEXING`
+will take a while before this is correct as i have a lot too look and search for
+
+---
+
+### 📂 $ ls -R ./Inventory
+*Methodology, exploit chains, and specialized write-ups.*
+
+* **[TryHackMe](./TryHackMe/)** • `🟢 Easy` | `🟡 Medium` | `🔴 Hard`
+* **[HackTheBox](./HackTheBox/)** • `Machines` | `Challenges`
+* **[PortSwigger](./PortSwigger-Academy/)** • `Web Security Mastery`
+
+---
+
+### ⚔️ ACTIVE_PHASES
+`PHASE_01` ⮕ **OSINT** (Intelligence & Reconnaissance)
+`PHASE_02` ⮕ **AI** (Security & Integration)
+`PHASE_03` ⮕ **RED TEAMING** (Offensive Operations)
+
+---
+
+### 🛠️ $ whoami --tools
+`Nmap` • `Burp Suite` • `Metasploit` • `Python` • `GoBuster` • `Wireshark` • `SQLMap`
+
+---
 <div align="center">
-  <h1>🛡️ SECURITY ARCHIVE 🛡️</h1>
-  <p><b>500-Room Cybersecurity Roadmap & Technical Walkthroughs</b></p>
-  
-  <img src="https://img.shields.io/badge/Progress-0%25-red?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/Rooms_Completed-0_/_500-blue?style=for-the-badge" />
-</div>
-
----
-
-### 🌑 Mission Objective
-Building a comprehensive knowledge base of exploits, methodologies, and flags across the "Big Three" platforms. This repository serves as my technical proof-of-work for **WorldSkills 2027** and future Red Team roles.
-
-### 📊 Training Status
-| Platform | Difficulty | Total Completed | Last Activity |
-| :--- | :---: | :---: | :--- |
-| **TryHackMe** | 🟢 Easy | `0` | *Standing by...* |
-| **HackTheBox** | 🟡 Medium | `0` | *Locked* |
-| **PortSwigger** | 🔵 Labs | `0` | *Locked* |
-
----
-
-### 📖 The Vault (Write-ups)
-*Browse the folders above or click a link below to see full methodology and answers.*
-
-| Platform | Difficulty | Room / Lab | Status |
-| :--- | :--- | :--- | :--- |
-| **THM** | 🟢 Easy | *Initial Scan in Progress...* | ⏳ PENDING |
-| **HTB** | 🟡 Medium | *Target Not Found...* | ⏳ PENDING |
-| **Burp** | 🔵 Lab | *Awaiting Interception...* | ⏳ PENDING |
-
----
-
-### 🛠️ Toolbelt & Tech Stack
-`Nmap` • `Burp Suite` • `Metasploit` • `Python` • `GoBuster` • `Wireshark` • `OSINT`
-
-<div align="center">
-  <br />
-  <i>"Try harder, learn deeper."</i>
+  <sub><b>TRAINING CYCLE: 2026</b> • sraesen • <b>[OSINT | AI | RED TEAMING]</b></sub>
 </div>
