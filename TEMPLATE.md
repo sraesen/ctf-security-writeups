@@ -1,16 +1,18 @@
 # [Room Name]
-**Platform:** TryHackMe / HackTheBox
-**Difficulty:** 🟢 Easy | 🟡 Medium | 🔴 Hard
+**Platform:** [THM / HTB / PortSwigger] | **Difficulty:** 🟢 
 
 ---
 
-## 🎯 Summary
-One sentence on what this room taught you.
+## 🔍 Methodology
+*How did you start? (e.g., Nmap, Burp Suite)*
 
-## 🛠️ Tools Used
-- Nmap, Burp Suite, GoBuster...
+## 📝 Task Walkthrough & Answers
+### Task 1: [Task Title]
+- **Question:** [The Question]
+- **Answer:** `[THE ANSWER]`
+- **How:** Explain the steps you took.
 
-## 🕵️ Step-by-Step
-### 1. Enumeration
-```bash
-nmap -sC -sV [IP]
+---
+## 🚩 Final Proof
+- **User Flag:** `[FLAG]`
+- **Root Flag:** `[FLAG]`
